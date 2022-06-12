@@ -7,6 +7,7 @@ fun main() {
     println("First character of $text is $firstChar")
 
     for (char in text) {
-        println("$char ")
+//        println("$char")
+        print("$char ")
     }
 }
