@@ -7,6 +7,7 @@ fun main() {
 }
 
 fun operatorAnd() {
+
     val officeOpen = 7
     val officeClosed = 16
     val now = 20
@@ -17,6 +18,7 @@ fun operatorAnd() {
 }
 
 fun operatorOr() {
+
     val officeOpen = 7
     val officeClosed = 16
     val now = 20
@@ -27,6 +29,7 @@ fun operatorOr() {
 }
 
 fun operatorNot() {
+
     val officeOpen = 7
     val now = 10
     val isOpen = now > officeOpen
