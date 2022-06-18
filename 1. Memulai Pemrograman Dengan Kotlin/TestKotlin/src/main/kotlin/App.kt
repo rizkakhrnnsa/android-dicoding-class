@@ -1,4 +1,4 @@
-// ini contoh single line komentar pada main function
+// ini contoh single line komentar pada functions.main function
 fun main() {
     println("Hello Kotlin!")
 //    helloName("Rizka Khairunnisa")
