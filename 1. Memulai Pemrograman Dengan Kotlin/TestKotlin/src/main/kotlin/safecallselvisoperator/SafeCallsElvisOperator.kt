@@ -1,7 +1,5 @@
 package safecallselvisoperator
 
-import nullabletypes.nullable
-
 fun main() {
     safeCalls(null)
     safeCalls("Rizka")
