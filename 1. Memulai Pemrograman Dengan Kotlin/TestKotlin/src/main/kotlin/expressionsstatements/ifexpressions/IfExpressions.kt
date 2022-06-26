@@ -1,4 +1,4 @@
-package expressions.ifexpressions
+package expressionsstatements.ifexpressions
 
 fun main() {
     condition()
