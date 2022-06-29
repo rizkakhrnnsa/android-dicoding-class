@@ -1,4 +1,4 @@
-package whiledowhile
+package loop.whiledowhile
 
 fun main() {
 //    learnWhile()
