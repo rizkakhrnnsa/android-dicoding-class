@@ -7,7 +7,7 @@ fun main() {
 fun learnSequences() {
     val list = (1..1_000_000).toList()
     // eager evaluation
-//    list.filter { it % 5 == 0 }.map { it * 2 }.forEach { println(it) }
+    list.filter { it % 5 == 0 }.map { it * 2 }.forEach { println(it) }
 
     // as sequences / lazy evaluation
     list.asSequence().filter { it % 5 == 0 }.map { it * 2 }.forEach { println(it) }
